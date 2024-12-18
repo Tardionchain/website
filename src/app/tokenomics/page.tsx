@@ -1,8 +1,8 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 export default function Page() {
   return (
-    <section className="h-[80vh] flex items-center justify-center">
-      <Card className="max:w-96 w-[50vw]">
+    <section className="md:h-[80vh] flex items-center justify-center">
+      <Card className="max:w-96 md:w-[50vw] sm:w-[80vw]">
         <CardHeader>
           <CardTitle className="text-3xl">Token Allocation Breakdown</CardTitle>
         </CardHeader>
