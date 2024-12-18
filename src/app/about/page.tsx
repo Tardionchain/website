@@ -8,8 +8,8 @@ import {
 
 export default function Page() {
   return (
-    <section className="h-[80vh] items-center flex justify-center">
-      <Card className="w-[80vw]">
+    <section className="md:h-[80vh] items-center flex justify-center">
+      <Card className="md:w-[80vw]">
         <CardHeader>
           <CardTitle className="text-3xl">About Tardionchain</CardTitle>
           <CardDescription>
