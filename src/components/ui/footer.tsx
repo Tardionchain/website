@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { FaTwitter, FaTelegram, FaGithub, FaChartBar, FaYoutube } from 'react-icons/fa';
+import { FaTwitter, FaTelegram, FaGithub, FaYoutube } from 'react-icons/fa';
 import { CoinGeckoIcon } from './coingecko-icon';
 import { SolscanIcon } from './solscan-icon';
 import { JupiterIcon } from './jupiter-icon';
