@@ -20,7 +20,7 @@ export const Footer = () => {
     { text: 'Careers', href: '/careers' },
     { text: 'Research', href: '/research' },
     { text: 'Docs', href: 'https://docs.tardionchain.xyz' },
-    { text: 'GitHub Repo', href: 'https://github.com/tardionchain/website' },
+    { text: 'GitHub Repo', href: 'https://github.com/tardionchain/prototype },
   ];
 
   return (
