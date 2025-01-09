@@ -3,7 +3,6 @@ import { HoverBorderGradient } from "@/components/ui/hover-border-gradient";
 import { TokenInfo } from "@/components/ui/token-info";
 import Link from "next/link";
 import { WavyBackground } from "@/components/ui/wavy-background";
-import { MatrixBrain } from "@/components/ui/matrix-brain";
 import { FAQ } from "@/components/ui/faq";
 import { JupiterIcon } from "@/components/ui/jupiter-icon";
 
@@ -90,10 +89,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Matrix Brain */}
-      <section className="overflow-hidden bg-neutral-900">
-        <MatrixBrain />
-      </section>
       {/* Key Components Section */}
       <section className="py-20 bg-neutral-900">
         <div className="container mx-auto px-4">
