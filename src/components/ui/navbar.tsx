@@ -30,6 +30,12 @@ const Navbar = () => {
                   Docs
                 </Link>
                 <Link
+                  href="https://explorer.tardionchain.xyz/"
+                  className="text-white hover:text-stone-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
+                >
+                  explorer
+                </Link>
+                <Link
                   href="/research"
                   className="text-white hover:text-stone-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
                 >
